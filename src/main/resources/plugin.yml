@@ -1,4 +1,4 @@
-name: CustomGUI
+name: CustomGUI-API
 version: '${version}'
 main: fr.bolton.customgui.CustomGUI
 api-version: 1.18
