@@ -15,7 +15,7 @@ public class InventoryListener implements Listener {
             if(inventoryBuilder.isInteractInventory()) {
                 e.setCancelled(true);
 
-                if(inventoryBuilder.getInventoryAction(e.getSlot()) != null) inventoryBuilder.getInventoryAction(e.getSlot()).onInteract((Player) e.getWhoClicked(), e.getAction());
+                if(inventoryBuilder.getInventoryAction(e.getRawSlot()) != null) inventoryBuilder.getInventoryAction(e.getSlot()).onInteract((Player) e.getWhoClicked(), e.getAction());
             }
         }
     }
