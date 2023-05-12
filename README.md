@@ -27,3 +27,4 @@ Example of custom inventory creation
         // "p" -> Player
         p.openInventory(inventoryBuilder);
 ```
+![](https://github.com/BoltonDev/CustomGUI/blob/master/src/main/resources/example-customgui.gif)
