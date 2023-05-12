@@ -1,5 +1,5 @@
 name: CustomGUI
-version: '1.0.0'
+version: '1.0.1'
 main: fr.bolton.customgui.CustomGUI
 api-version: 1.18
 load: STARTUP
