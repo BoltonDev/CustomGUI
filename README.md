@@ -1,13 +1,13 @@
 # CustomGUI
 
-**Version** : 1.0.0
+**Version** : 1.0.1
 **Developer** : Bolton
 
 Allows you to create a custom inventory/gui with actions
 
 ## Installation
 
-Download the Jar file here : https://github.com/BoltonDev/CustomGUI/releases/tag/v1.0.0 <br/>
+Download the Jar file here : https://github.com/BoltonDev/CustomGUI/releases/tag/v1.0.1 <br/>
 Then, you just have to implement it in your `build.gradle`.
 
 ## How to use
